@@ -1,0 +1,3 @@
+``` CMAKE
+cmake -B build
+```
